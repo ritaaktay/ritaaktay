@@ -7,3 +7,4 @@
 📎  [CV](https://github.com/ritaaktay/cv/blob/main/README.md) | [LinkedIn](https://www.linkedin.com/in/rita-aktay/)
 
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritaaktay&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
