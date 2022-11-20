@@ -4,7 +4,7 @@
  \
 👩🏻‍💻 Recently completed the [Makers Academy](https://makers.tech/) full-stack software engineering course, where I learned to use Agile, OOP and TDD to build applications in TypeScript and Ruby. Now I am excited to continue this journey of fast-growth and non-stop learning in my next role as a junior developer.\
 \
-🌱 Curiousity 🌱 Ambition 🌱 Perseverence\
+🌱 Curiousity 🌱 Perseverence 🌱 Growth\
  \
 📚 I also have an [MA in Curating](https://www.gold.ac.uk/pg/mfa-curating/?gclid=Cj0KCQiA1NebBhDDARIsAANiDD04RfEjEw2-F931n6pl9hJ9qRZJnSY4Y6l0gAvPQMgkEYLc1fd1FjoaAuW8EALw_wcB)\
 🎾 And play competitive tennis\
