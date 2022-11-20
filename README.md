@@ -2,7 +2,7 @@
  \
 📎  [CV](https://github.com/ritaaktay/cv/blob/main/README.md) 📎 [LinkedIn](https://www.linkedin.com/in/rita-aktay/) 📎 [Blog](https://medium.com/@rita.aktay)\
  \
-👩🏻‍💻 Recently completed the [Makers Academy](https://makers.tech/) full-stack software engineering course, where I learned to use Agile, OOP and TDD to build applications in TypeScript and Ruby. Now I am excited to continue this journey of fast-growth and non-stop learning in my next role as a junior developer.\
+👩🏻‍💻 Recently completed the [Makers Academy](https://makers.tech/) full-stack software engineering bootcamp, where I learned to use Agile, OOP and TDD to build applications in TypeScript, JavaScript and Ruby. Now I am excited to continue this journey of fast-growth and non-stop learning in my next role as a junior developer.\ 
 \
 🌱 Curiousity 🌱 Perseverence 🌱 Growth\
  \
