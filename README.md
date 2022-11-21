@@ -6,6 +6,8 @@
 \
 🌱 Curiousity 🌱 Perseverence 🌱 Growth\
  \
+Read a blog post I wrote on [unit-testing and mocks with TypeScript and Jest](https://medium.com/@rita.aktay/makers-mocking-typescript-jest-dc917f3db9f3) , or this one on [managing dependency injections while building a game engine with JavaScript](https://medium.com/@rita.aktay/a-game-engine-building-a-dependency-injection-container-27905b2a10ff)\
+\
 📚 I also have an [MA in Curating](https://www.gold.ac.uk/pg/mfa-curating/?gclid=Cj0KCQiA1NebBhDDARIsAANiDD04RfEjEw2-F931n6pl9hJ9qRZJnSY4Y6l0gAvPQMgkEYLc1fd1FjoaAuW8EALw_wcB)\
 🎾 And play competitive tennis\
 📍 Based in London\
