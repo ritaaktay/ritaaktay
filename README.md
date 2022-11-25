@@ -13,6 +13,12 @@ Read a blog post I wrote on [unit-testing and mocks with TypeScript and Jest](ht
 📍 Based in London\
 📫 Say hello [ritaaktay@gmail.com](mailto:ritaaktay@gmail.com)
 
+| Name                         | Description       | Tech/Tools        |
+| ---------------------------- | ----------------- | ----------------- |
+| [**Game of Games**](https://github.com/ritaaktay/game-of-games) | A game of games built with a custom game engine | JavaScript, HTML, CSS, Jest |
+| [**Acebook**](https://github.com/ritaaktay/acebook)  | A social media web application, a bit like Facebook | JavaScript, Node.js, Express.js, MongoDB, Mongoose, Jest |
+| [**News Summary**](https://github.com/ritaaktay/news-summary) | A single-page application for the latest news from the New York Times | TypeScript, Bootstrap, Jest |
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritaaktay&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
