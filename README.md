@@ -18,9 +18,10 @@ Read a blog post I wrote on [unit-testing and mocks with TypeScript and Jest](ht
 | [**Game of Games**](https://github.com/ritaaktay/game-of-games) | A game of games built with a custom game engine | JavaScript, HTML, CSS, Jest |
 | [**Acebook**](https://github.com/ritaaktay/acebook)  | A social media web application, a bit like Facebook | JavaScript, Node.js, Express.js, MongoDB, Mongoose, Jest |
 | [**News Summary**](https://github.com/ritaaktay/news-summary) | A single-page application for the latest news from the New York Times | TypeScript, Bootstrap, Jest |
+| [**Bowling Scorecard**](https://github.com/ritaaktay/bowling-challenge) | A commad line program that calculates the score of a 10-pin bowling game | JavaScript, Jest |
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritaaktay&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritaaktay&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+ -->
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
