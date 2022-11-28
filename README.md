@@ -4,7 +4,7 @@
  \
 👩🏻‍💻 Recently completed the [Makers Academy](https://makers.tech/) full-stack software engineering bootcamp, where I learned to use Agile, OOP and TDD to build applications in TypeScript, JavaScript and Ruby. Now I am excited to continue this journey of fast-growth and non-stop learning in my next role as a junior developer.\
 \
-Currently learning: 
+Currently learning:\
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)\
 \
 🌱 Curiosity 🌱 Perseverance 🌱 Growth\
