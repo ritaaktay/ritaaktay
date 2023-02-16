@@ -4,7 +4,7 @@
  \
 👩🏻‍💻 Recently completed the [Makers Academy](https://makers.tech/) software engineering course where I learned to use Agile, OOP and TDD to build full-stack applications. Now I'm excited to continue this journey of fast-growth and non-stop learning in my next role.\
 \
-[Currently](https://github.com/ritaaktay/java): enjoying [Advent of Code 2022](https://github.com/ritaaktay/advent-of-code-2022)\
+Currently: Enjoying [Advent of Code 2022](https://github.com/ritaaktay/advent-of-code-2022)\
 \
 🌱 Curiosity 🌱 Perseverance 🌱 Growth\
  \
