@@ -1,25 +1,15 @@
-## 👋  Hi, I’m Rita
- \
-📎  [CV](https://github.com/ritaaktay/cv/blob/main/README.md) 📎 [LinkedIn](https://www.linkedin.com/in/rita-aktay/) 📎 [Blog](https://medium.com/@rita.aktay)\
- \
-👩🏻‍💻 Recently completed the [Makers Academy](https://makers.tech/) software engineering course where I learned to use Agile, OOP and TDD to build full-stack applications. Now I'm excited to continue this journey of fast-growth and non-stop learning in my next role.\
+👩🏻‍💻 A fast-learning full-stack software engineer— driven by curiosity and motivated by solving complex problems. Before, I was an R&D consultant for cultural organisations pioneering digital innovation. Now, I am excited to focus on building technological solutions first-hand.\
 \
-Currently: Enjoying [Advent of Code 2022](https://github.com/ritaaktay/advent-of-code-2022)\
+Currently enjoying [Advent of Code 2022](https://github.com/ritaaktay/advent-of-code-2022)\
 \
 🌱 Curiosity 🌱 Perseverance 🌱 Growth\
  \
-Read a blog post I wrote on [unit-testing and mocks with TypeScript and Jest](https://medium.com/@rita.aktay/makers-mocking-typescript-jest-dc917f3db9f3) , or this one on [managing dependency injections while building a game engine with JavaScript](https://medium.com/@rita.aktay/a-game-engine-building-a-dependency-injection-container-27905b2a10ff)\
+Read a blog post I wrote on [building a game engine with JavaScript](https://medium.com/@rita.aktay/a-game-engine-building-a-dependency-injection-container-27905b2a10ff)\
 \
 📚 I also have an [MA in Curating](https://www.gold.ac.uk/pg/mfa-curating/?gclid=Cj0KCQiA1NebBhDDARIsAANiDD04RfEjEw2-F931n6pl9hJ9qRZJnSY4Y6l0gAvPQMgkEYLc1fd1FjoaAuW8EALw_wcB)\
 🎾 And play tennis\
 📍 Based in London\
 📫 Say hello [ritaaktay@gmail.com](mailto:ritaaktay@gmail.com)
-
-| Name                         | Description       | Tech/Tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| [**Game of Games**](https://github.com/ritaaktay/game-of-games) | A game of games built with a custom game engine | JavaScript, HTML, CSS, Jest |
-| [**Acebook**](https://github.com/ritaaktay/acebook)  | A social media web application, a bit like Facebook | JavaScript, Node.js, Express.js, MongoDB, Mongoose, Jest |
-| [**News Summary**](https://github.com/ritaaktay/news-summary) | A single-page application for the latest news from the New York Times | TypeScript, Bootstrap, Jest |
 
 <!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritaaktay&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
  -->
