@@ -1,15 +1,12 @@
-👩🏻‍💻 A fast-learning full-stack software engineer— driven by curiosity and motivated by solving complex problems. Before, I was an R&D consultant for cultural organisations pioneering digital innovation. Now, I am excited to focus on building technological solutions first-hand.\
+Fast-learning software engineer – driven by curiosity and motivated by solving complex problems. Before, I was an R&D consultant for cultural organisations pioneering digital innovation. Now, I am excited to be building technological solutions first-hand at Vodaofone UK.\
 \
-Currently enjoying [Advent of Code 2022](https://github.com/ritaaktay/advent-of-code-2022)\
-\
-🌱 Curiosity 🌱 Perseverance 🌱 Growth\
- \
-Read a blog post I wrote on [building a game engine with JavaScript](https://medium.com/@rita.aktay/a-game-engine-building-a-dependency-injection-container-27905b2a10ff)\
+Check out my solutions for [Advent of Code 2022](https://github.com/ritaaktay/advent-of-code-2022)\
 \
 📚 I also have an [MA in Curating](https://www.gold.ac.uk/pg/mfa-curating/?gclid=Cj0KCQiA1NebBhDDARIsAANiDD04RfEjEw2-F931n6pl9hJ9qRZJnSY4Y6l0gAvPQMgkEYLc1fd1FjoaAuW8EALw_wcB)\
 🎾 And play tennis\
 📍 Based in London\
 📫 Say hello [ritaaktay@gmail.com](mailto:ritaaktay@gmail.com)
+
 
 <!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritaaktay&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
  -->
