@@ -1,4 +1,4 @@
-Fast-learning software engineer – driven by curiosity and motivated by solving complex problems. Before, I was an R&D consultant for cultural organisations pioneering digital innovation. Now, I am excited to be building technological solutions first-hand at Vodaofone UK.\
+Fast-learning software engineer – driven by curiosity and motivated by solving complex problems. Before, I was an R&D consultant for cultural organisations pioneering digital innovation. Now, I am excited to build technological solutions first-hand at Vodaofone UK.\
 \
 Check out my solutions for [Advent of Code 2022](https://github.com/ritaaktay/advent-of-code-2022)\
 \
