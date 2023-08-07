@@ -1,4 +1,4 @@
-Fast-learning software engineer, driven by curiosity and motivated by complex problems. Before, I was an R&D consultant for cultural organisations pioneering digital innovation. Now, I am excited to build technological solutions first-hand at Vodaofone UK.\
+Fast-learning software engineer, driven by curiosity and motivated by complex problems. Currently working at Vodafone UK.
 \
 Check out my solutions for [Advent of Code 2022](https://github.com/ritaaktay/advent-of-code-2022)\
 \
@@ -6,7 +6,6 @@ Check out my solutions for [Advent of Code 2022](https://github.com/ritaaktay/ad
 🎾 And play tennis\
 📍 Based in London\
 📫 Say hello [ritaaktay@gmail.com](mailto:ritaaktay@gmail.com)
-
 
 <!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritaaktay&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
  -->
