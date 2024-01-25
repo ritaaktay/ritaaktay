@@ -1,17 +1,13 @@
-👋🏼 A fast-learning software engineer, driven by curiosity and motivated by complex problems\
-💻 Currently working for Vodafone UK\
+📍 Software Engineer @ Vodafone UK\
+🗺️ Based in London\
 \
-🧩 Check out my solutions for [Advent of Code 2022](https://github.com/ritaaktay/advent-of-code-2022)\
-\
-📚 I also have an [MA in Curating](https://www.gold.ac.uk/pg/mfa-curating/?gclid=Cj0KCQiA1NebBhDDARIsAANiDD04RfEjEw2-F931n6pl9hJ9qRZJnSY4Y6l0gAvPQMgkEYLc1fd1FjoaAuW8EALw_wcB)\
+📚 I also have an MFA in Art History\
 🎾 And play tennis\
 \
-📍 Based in London\
-📫 Say hello [ritaaktay@gmail.com](mailto:ritaaktay@gmail.com)
+👋 Say hello [ritaaktay@gmail.com](mailto:ritaaktay@gmail.com)
 
 <!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritaaktay&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
  -->
-
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
