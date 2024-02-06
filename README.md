@@ -1,11 +1,13 @@
-📍 Software Engineer @ Vodafone UK\
-🗺️ Based in London\
+📍 &nbsp;  Software Engineer @ Vodafone UK\
+🎮 &nbsp;  Currently working on [a conversational notes app with LLMs](https://github.com/ritaaktay/smart-notes)\
 \
-📚 I also have an MFA in Art History\
-🎾 And play tennis\
+🎨 &nbsp; I also have an MFA in Art History\
+🎾 &nbsp; And play tennis\
 \
-👋 Say hello [ritaaktay@gmail.com](mailto:ritaaktay@gmail.com)
+🗺️ &nbsp; Based in London\
+👋 &nbsp; Say hello @ [ritaaktay@gmail.com](mailto:ritaaktay@gmail.com)
 
+ <br></br>
 <!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritaaktay&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
  -->
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
