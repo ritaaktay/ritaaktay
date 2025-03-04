@@ -1,4 +1,4 @@
-📍 &nbsp;  Software Engineer @ Vodafone UK\
+📍 &nbsp;  Software Engineer @ Gousto\
 🎮 &nbsp;  Currently working on [a conversational notes app with LLMs](https://github.com/ritaaktay/smart-notes)\
 \
 🎨 &nbsp; I also have an MFA in Art History\
